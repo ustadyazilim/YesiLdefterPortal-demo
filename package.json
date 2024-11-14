@@ -41,10 +41,5 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
-  },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "npx cz --hook || true"
-    }
   }
 }
